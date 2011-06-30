@@ -1,10 +1,10 @@
 body{
-	background-color:#117F40;
+	background-color:purple;
 	color: #ffffff;
 	font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
 	}
 a{
-	color: #ffffff;
+	color: blue;
 	font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
 }
 .but{padding:0px;width:8em;text-align:center;font-size:90%;}
